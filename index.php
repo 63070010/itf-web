@@ -5,8 +5,8 @@
     <body>
         <h1>Profile</h1>
         <p>My name is Kittipob pangtrakool nickname is Bank</p>
-        <img src="memecat.png">
-        <img src="nice.jpeg">
+        <img src="memecat.png" width="300">
+        <img src="nice.jpeg" width="300">
         <br>
         <a href ="https://www.youtube.com/c/MRHEARTROCKERz/videos">Fc kubbb!!!</a>
 
