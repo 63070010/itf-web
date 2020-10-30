@@ -1,5 +1,6 @@
 <hlme>
     <html>
+        <meta charset="UTF-8">
         <title>Profile</title>
     </head>
     <body>
@@ -11,11 +12,6 @@
         <a href ="https://www.youtube.com/c/MRHEARTROCKERz/videos">Fc kubbb!!!</a>
 
         <h2>The unordered list</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
-        </ul>
-    
+        <p>ดีครับ</p>     
     </body>
 </html>
