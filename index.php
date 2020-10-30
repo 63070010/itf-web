@@ -8,7 +8,6 @@
         <img src="cat.jpg">
         <br>
         <a href ="http://www.it.kmitl.ac.th">This is a Link</a>
-
         <h2>The unordered list</h2>
         <ul>
             <li>Google</li>
